@@ -8,6 +8,6 @@
     3) Вывод json по api адресу "http://server.name/api/test/plots"
     4) Написано 5 тестов.
 
-![api реализация](https://github.com/ivasha89/rosreestr/tree/master/app/storage/app/public/api.jpg)
-![console реализация](https://github.com/ivasha89/rosreestr/tree/master/app/storage/app/public/console.jpg)
-![web реализация](https://github.com/ivasha89/rosreestr/tree/master/app/storage/app/public/web.jpg)
+![api реализация](https://github.com/ivasha89/rosreestr/tree/master/storage/app/public/api.jpg)
+![console реализация](https://github.com/ivasha89/rosreestr/tree/master/storage/app/public/console.jpg)
+![web реализация](https://github.com/ivasha89/rosreestr/tree/master/storage/app/public/web.jpg)
